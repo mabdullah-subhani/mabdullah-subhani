@@ -11,9 +11,9 @@ When I'm not coding, I enjoy discovering new places and immersing myself in the 
 
 📫 **Contact Information:**  
 
-- **Email:** [your-email@example.com](mailto:abdullahsubhani84@gmail.com)  
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/mabdullah-subhani/)  
-- **GitHub:** [your-github-username](https://github.com/subhani2125/)  
+- **Email:** [abdullahsubhani84@gmail.com](mailto:abdullahsubhani84@gmail.com)  
+- **LinkedIn:** [mabdullah-subhani](https://www.linkedin.com/in/mabdullah-subhani/)  
+- **GitHub:** [subhani2125](https://github.com/subhani2125/)  
 
 ## Skills  
 
