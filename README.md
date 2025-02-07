@@ -17,7 +17,7 @@ When I'm not coding, I enjoy discovering new places and immersing myself in the 
 
 ## Skills  
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,cpp,java,tensorflow,sklearn,pytorch,flask,solidity,visualstudio,vscode,androidstudio,idea,colab,jupyter,selenium,wordpress,git,github,react,javascript,html,css,firebase,mysql,mongodb,sqlite,figma&perline=10)  
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,cpp,java,tensorflow,sklearn,pytorch,flask,solidity,visualstudio,vscode,androidstudio,idea,selenium,wordpress,git,github,react,javascript,html,css,firebase,mysql,mongodb,sqlite,figma&perline=10)  
 
 ## Education  
 
