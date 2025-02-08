@@ -13,7 +13,7 @@ When I'm not coding, I enjoy discovering new places and immersing myself in the 
 
 - **Email:** [abdullahsubhani84@gmail.com](mailto:abdullahsubhani84@gmail.com)  
 - **LinkedIn:** [mabdullah-subhani](https://www.linkedin.com/in/mabdullah-subhani/)  
-- **GitHub:** [subhani2125](https://github.com/mabdullah-subhani/)  
+- **GitHub:** [mabdullah-subhani](https://github.com/mabdullah-subhani/)  
 
 ## Skills  
 
