@@ -11,7 +11,7 @@ When I'm not coding, I enjoy discovering new places and immersing myself in the 
 
 📫 **Contact Information:**  
 
-- **Email:** [abdullahsubhani84@gmail.com](mailto:abdullahsubhani84@gmail.com)  
+- **Email:** [mabdullahsubhanii@gmail.com](mailto:mabdullahsubhanii@gmail.com)  
 - **LinkedIn:** [mabdullah-subhani](https://www.linkedin.com/in/mabdullah-subhani/)  
 - **GitHub:** [mabdullah-subhani](https://github.com/mabdullah-subhani/)  
 
