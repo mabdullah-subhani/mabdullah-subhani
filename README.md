@@ -2,9 +2,9 @@
 
 ## About Me
 
-Hello! I'm **Muhammad Abdullah Subhani**, an AI Engineer & Flutter Developer passionate about building AI-driven solutions and innovative mobile applications. 🚀  
+Hello! I'm **Muhammad Abdullah Subhani**, a **Backend Developer (Spring Boot)**, **AI Engineer**, and **Flutter Developer** passionate about building scalable backend systems, AI-driven solutions, and innovative mobile applications. 🚀  
 
-I have expertise in Artificial Intelligence, Machine Learning, Data Science, and Data Mining, complemented by experience in Flutter mobile application development. I thrive on integrating advanced technologies to create impactful and data-centric solutions.
+I specialize in **Spring Boot microservices**, **Artificial Intelligence**, **Machine Learning**, and **Flutter app development**, with a focus on creating impactful, data-centric, and performance-driven solutions.
 
 ### 🎉 Fun Fact  
 When I'm not coding, I enjoy discovering new places and immersing myself in the world of gaming. 🌍🎮 
